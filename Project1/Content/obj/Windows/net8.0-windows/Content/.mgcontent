@@ -4,9 +4,11 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/14JamesK/source/repos/Project1/Project1/Content/OIP.png</File>
+    <File>C:/Users/14JamesK/source/repos/Project1/Project1/Content/OIP (2).png</File>
+    <File>C:/Users/14JamesK/source/repos/Project1/Project1/Content/Spoon.jpg</File>
   </SourceFiles>
   <DestFiles>
+    <File xsi:nil="true" />
     <File xsi:nil="true" />
   </DestFiles>
 </SourceFileCollection>
