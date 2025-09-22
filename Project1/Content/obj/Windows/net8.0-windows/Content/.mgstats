@@ -1,3 +1,4 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/14JamesK/source/repos/Project1/Project1/Content/fontstuff.spritefont","C:/Users/14JamesK/source/repos/Project1/Project1/Content/bin/Windows/Content/fontstuff.xnb","LocalizedFontProcessor","SpriteFontContent",2500,931,0.1447077
 "C:/Users/14JamesK/source/repos/Project1/Project1/Content/OIP (2).png","C:/Users/14JamesK/source/repos/Project1/Project1/Content/bin/Windows/Content/OIP (2).xnb","TextureProcessor","Texture2DContent",9287,40085,0.1749976
 "C:/Users/14JamesK/source/repos/Project1/Project1/Content/Spoon.jpg","C:/Users/14JamesK/source/repos/Project1/Project1/Content/bin/Windows/Content/Spoon.xnb","TextureProcessor","Texture2DContent",782,40085,0.1440767
